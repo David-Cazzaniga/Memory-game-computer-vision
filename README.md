@@ -1,4 +1,4 @@
-\# Automated Memory Card Game with Computer Vision
+# Automated Memory Card Game with Computer Vision
 
 
 
@@ -6,7 +6,7 @@ An autonomous system that detects, classifies, and matches cards in a physical M
 
 
 
-\## Features
+## Features
 
 \- **Card Detection**: Contour-based segmentation with morphological operations
 
@@ -18,7 +18,7 @@ An autonomous system that detects, classifies, and matches cards in a physical M
 
 
 
-\## System Architecture
+## System Architecture
 
 1\. **Image Preprocessing**: Grayscale conversion → Gaussian blur → Morphological operations → Edge detection
 
