@@ -1,0 +1,5 @@
+﻿opencv-python>=4.5.0
+opencv-contrib-python>=4.5.0
+numpy>=1.19.0
+matplotlib>=3.3.0
+jupyter>=1.0.0
